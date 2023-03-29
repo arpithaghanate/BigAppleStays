@@ -49,11 +49,16 @@ Based on the figure presented, it is apparent that Manhattan in New York has the
 
 ### Which type of room is more popular among Airbnb guests?
 After visualizing the data using RStudio, it is evident that the preferred type of Airbnb rental was Entire home/apt, with a value of 20397. On the other hand, the least preferred type was Hotel room, with a value of 210. To improve the clarity and aesthetics of the visualization, I used the scale_fill_manual function to change the default colors.
+![image](https://user-images.githubusercontent.com/29608089/228420800-2907fc17-1840-408f-a4ff-8184648428a4.png)
 
 
 ### How does the price of Airbnb properties vary across different neighborhoods?
 This plot was generated using Python to illustrate the variation in Airbnb prices across different areas. I utilized the seaborn library to create the plot. Upon examining the plot, we can observe that in Manhattan, Airbnb prices are scattered across every price range, implying that this area is affordable for everyone. In Brooklyn, the Airbnb prices can go up to 8000, indicating that it is more expensive compared to Manhattan. In contrast, Staten Island is the most affordable area, with Airbnb prices below 2000.
+![image](https://user-images.githubusercontent.com/29608089/228420828-962a9e23-13c5-42bf-8990-c66496aa3c19.png)
 
 
 ### How does the availability of Airbnb properties fluctuate throughout the year?
 The dataset includes columns for latitude and longitude, which I utilized to create a plot that displays the availability of Airbnb across different locations in New York. To represent the varying levels of availability, I utilized a color range that goes from dark blue to light blue. This enables users to easily identify areas with higher availability of Airbnb, and make informed decisions accordingly.
+![image](https://user-images.githubusercontent.com/29608089/228420856-cdec3b66-0d5f-44ab-920f-f36bd43bc125.png)
+
+
