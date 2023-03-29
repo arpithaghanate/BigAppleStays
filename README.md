@@ -44,6 +44,9 @@ Following the data cleaning process, we can observe that the dataset now has 287
 ### What is the distribution of Airbnb properties among different neighborhood groups?
 Based on the figure presented, it is apparent that Manhattan in New York has the highest Airbnb availability, which is represented by the color green. In contrast, Staten Island has the least Airbnb availability, and is represented by the color pink.
 
+![image](https://user-images.githubusercontent.com/29608089/228420718-a6436a06-d3f6-413e-a503-f94f1204d56d.png)
+
+
 ### Which type of room is more popular among Airbnb guests?
 After visualizing the data using RStudio, it is evident that the preferred type of Airbnb rental was Entire home/apt, with a value of 20397. On the other hand, the least preferred type was Hotel room, with a value of 210. To improve the clarity and aesthetics of the visualization, I used the scale_fill_manual function to change the default colors.
 
