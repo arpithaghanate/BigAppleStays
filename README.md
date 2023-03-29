@@ -1,5 +1,5 @@
 # BigAppleStays
-## A data-driven analysis of Airbnb listings in NYC 
+### A data-driven analysis of Airbnb listings in NYC 
 
 ## Goal 
 This project aims to analyze a dataset related to Airbnb in New York City to understand the booking trends of tourists and gain insights into the preferences of visitors to different types of properties. Through data analysis, this project seeks to establish relationships between the various attributes and draw insights that could inform future improvements which could be valuable for stakeholders in tourism industry.
